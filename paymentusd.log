@@ -1,0 +1,169 @@
+
+------------------------
+2020.08.12 8:24:22
+order_id = 1597245847
+amount = 000000083000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 003
+Payment Status = Payment is cancelled.
+Channel Respose = 0036
+
+------------------------
+
+------------------------
+2020.08.12 8:34:55
+order_id = 1597246481
+amount = 000000016100
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 003
+Payment Status = Payment is cancelled.
+Channel Respose = 0036
+
+------------------------
+
+------------------------
+2020.08.12 8:39:30
+order_id = 1597246767
+amount = 000000000000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 999
+Payment Status = invalid amount
+Channel Respose = 9009
+
+------------------------
+
+------------------------
+2020.08.12 8:39:32
+order_id = 1597246767
+amount = 000000000000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 999
+Payment Status = invalid amount
+Channel Respose = 9009
+
+------------------------
+
+------------------------
+2020.08.12 8:42:20
+order_id = 1597246936
+amount = 000000000000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 999
+Payment Status = invalid amount
+Channel Respose = 9009
+
+------------------------
+
+------------------------
+2020.08.12 8:49:29
+order_id = 1597247270
+amount = 000000016100
+invoice_no = 
+transaction_ref = 340928674
+Approval_code = 996904
+Payment Status = 000
+Payment Status = success
+Channel Respose = 00
+
+------------------------
+
+------------------------
+2020.08.12 8:51:21
+order_id = 1597247270
+amount = 000000016100
+invoice_no = 
+transaction_ref = 340928674
+Approval_code = 996904
+Payment Status = 000
+Payment Status = success
+Channel Respose = 00
+
+------------------------
+
+------------------------
+2020.08.12 8:52:10
+order_id = 1597247270
+amount = 000000016100
+invoice_no = 
+transaction_ref = 340928674
+Approval_code = 996904
+Payment Status = 000
+Payment Status = success
+Channel Respose = 00
+
+------------------------
+
+------------------------
+2020.08.12 8:53:12
+order_id = 1597247588
+amount = 000000106000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 003
+Payment Status = Payment is cancelled.
+Channel Respose = 0036
+
+------------------------
+
+------------------------
+2020.08.12 8:53:27
+order_id = 
+amount = 
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 999
+Payment Status = Your payment session has expired, please return to merchant page and attempt payment again.
+Channel Respose = 9055
+
+------------------------
+
+------------------------
+2020.08.12 8:55:43
+order_id = 1597247620
+amount = 000000016100
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 003
+Payment Status = Payment is cancelled.
+Channel Respose = 0036
+
+------------------------
+
+------------------------
+2020.08.12 8:55:56
+order_id = 1597247683
+amount = 000000016100
+invoice_no = 
+transaction_ref = 340929214
+Approval_code = 890651
+Payment Status = 000
+Payment Status = success
+Channel Respose = 00
+
+------------------------
+
+------------------------
+2020.08.13 1:46:01
+order_id = 1597308350
+amount = 000000120000
+invoice_no = 
+transaction_ref = 
+Approval_code = 
+Payment Status = 003
+Payment Status = Payment is cancelled.
+Channel Respose = 0036
+
+------------------------

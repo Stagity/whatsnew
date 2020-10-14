@@ -112,7 +112,7 @@ if (array_key_exists('saved', $_REQUEST)) {
           "UF_CRM_1602683880627" => $varPackageFour,
           "UF_CRM_1602683898313" => $varPackageFive,
           "UF_CRM_1602683908435" => $gemOrderID,
-          "UF_CRM_1592918642354" => 'USD',
+          "UF_CRM_1602684316376" => 'USD',
           "STATUS_ID" => "NEW",
           "OPENED" => "Y",
           "ASSIGNED_BY_ID" => 57,

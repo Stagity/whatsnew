@@ -99,7 +99,7 @@ if (array_key_exists('saved', $_REQUEST)) {
     $defaults = $_REQUEST;
     writeToLog($_REQUEST, 'webform');
 
-    $queryUrl = 'https://b24-04jvxe.bitrix24.com/rest/1/p29ji93rv31oa1sp/crm.lead.add.json';
+    $queryUrl = 'https://mgcrm.yomagroup.io/rest/1/qugl8xcovfjv1b5e/crm.lead.add.json';
 
     $queryData = http_build_query(array(
         'fields' => array(

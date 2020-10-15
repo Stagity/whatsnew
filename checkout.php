@@ -115,7 +115,7 @@ if (array_key_exists('saved', $_REQUEST)) {
             "UF_CRM_1602684316376" => 'MMK',
             "STATUS_ID" => "NEW",
             "OPENED" => "Y",
-            "ASSIGNED_BY_ID" => 57,
+            "ASSIGNED_BY_ID" => 2733,
             "PHONE" => array(array("VALUE" => $_REQUEST['dealer-phone'], "VALUE_TYPE" => "WORK")),
             "EMAIL" => array(array("VALUE" => $_REQUEST['email'], "VALUE_TYPE" => "WORK")),
 
